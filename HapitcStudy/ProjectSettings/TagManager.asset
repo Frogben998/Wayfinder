@@ -6,6 +6,9 @@ TagManager:
   tags:
   - Anchor
   - Sandpaper
+  - VRController
+  - LeftVRController
+  - RightVRController
   layers:
   - Default
   - TransparentFX
