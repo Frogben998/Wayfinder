@@ -2174,11 +2174,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   gravelClip: {fileID: 2460798210113038985, guid: 314de0483cdbc9c4bbdd0d22b09a377b, type: 3}
-  hiFreqHiAmp: {fileID: 0}
-  hiFreqLowAmp: {fileID: 0}
-  lowFreqHiAmp: {fileID: 0}
-  lowFreqLowAmp: {fileID: 0}
+  hiFreqHiAmp: {fileID: 2460798210113038985, guid: 7541d15c62e16db42ad5847aa05dd043, type: 3}
+  hiFreqLowAmp: {fileID: 2460798210113038985, guid: 76518b37ef6b8ee499e55834fd22aaf7, type: 3}
+  lowFreqHiAmp: {fileID: 2460798210113038985, guid: b217e847493a8b14ea71d20637664c7d, type: 3}
+  lowFreqLowAmp: {fileID: 2460798210113038985, guid: 361171f26f3e0ff45b417ac00b9e39a7, type: 3}
   sandpaperSource: {fileID: 316419064}
+  tactileHapticOVRControllerGuidance: {fileID: 1033127902}
+  testingTextScript: {fileID: 0}
+  testingIndex: 0
 --- !u!114 &316419064
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9228,6 +9231,9 @@ MonoBehaviour:
   lowFreqHiAmp: {fileID: 2460798210113038985, guid: b217e847493a8b14ea71d20637664c7d, type: 3}
   lowFreqLowAmp: {fileID: 2460798210113038985, guid: 361171f26f3e0ff45b417ac00b9e39a7, type: 3}
   sandpaperSource: {fileID: 1547004971}
+  tactileHapticOVRControllerGuidance: {fileID: 0}
+  testingTextScript: {fileID: 0}
+  testingIndex: 0
 --- !u!65 &1547004974
 BoxCollider:
   m_ObjectHideFlags: 0
