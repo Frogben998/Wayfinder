@@ -13,8 +13,7 @@ public class TestingTextScript : MonoBehaviour
         // 0) Hold Index Trigger --> Play haptic sample 1 once
         CurrentPopUpIndex = 0;
         popUpText.text =
-                           "Hello! Here, I am testing how different haptics, of different frequencies and amplitudes, can feel in regards to one surface! Touch the controller to the surface to play the haptics." +
-                           "afterward, pull the trigger to cycle to a different haptic profile, then touch the controller to the surface again. Do this for 4 more times, then let me know when you're done, and ready to answer the google form!";
+                           "Hello! Once you pull the trigger, the test will start. \n Pretend you're running your hand over the surfaces as the haptics play. \n Once you're ready, pull the trigger to move to the next haptic clip.";
         Debug.Log("The Index is" + CurrentPopUpIndex);
     }
     public void NextStep()
