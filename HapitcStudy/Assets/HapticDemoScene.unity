@@ -2090,7 +2090,7 @@ GameObject:
   - component: {fileID: 316419061}
   - component: {fileID: 316419060}
   m_Layer: 0
-  m_Name: SandpaperGritPlane (1)
+  m_Name: CeramicTilePlane
   m_TagString: Sandpaper
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2173,11 +2173,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 50d5c481895923946bd7f96f3d31747b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gravelClip: {fileID: 2460798210113038985, guid: 314de0483cdbc9c4bbdd0d22b09a377b, type: 3}
-  hiFreqHiAmp: {fileID: 2460798210113038985, guid: 7541d15c62e16db42ad5847aa05dd043, type: 3}
-  hiFreqLowAmp: {fileID: 2460798210113038985, guid: 76518b37ef6b8ee499e55834fd22aaf7, type: 3}
-  lowFreqHiAmp: {fileID: 2460798210113038985, guid: b217e847493a8b14ea71d20637664c7d, type: 3}
-  lowFreqLowAmp: {fileID: 2460798210113038985, guid: 361171f26f3e0ff45b417ac00b9e39a7, type: 3}
+  gravelClip: {fileID: 2460798210113038985, guid: fa157dc283fc8504a83c894cc0bbbf94, type: 3}
+  hiFreqHiAmp: {fileID: 2460798210113038985, guid: f9e5728c15f112c49adf1c1ced9dc37f, type: 3}
+  hiFreqLowAmp: {fileID: 2460798210113038985, guid: 54522746c077c604eaa5c9a12894b358, type: 3}
+  lowFreqHiAmp: {fileID: 2460798210113038985, guid: e17d43ae4b0772b4fbad44d0262d0700, type: 3}
+  lowFreqLowAmp: {fileID: 2460798210113038985, guid: 7f07bf884d80a2447ab2fabde9649512, type: 3}
   sandpaperSource: {fileID: 316419064}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
   testingTextScript: {fileID: 0}
@@ -2194,7 +2194,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b9dc93c7e1ae142448d4a122be86ea8d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _clip: {fileID: 2460798210113038985, guid: 89fce714b15d2cf45acefd3fe99d0b46, type: 3}
+  _clip: {fileID: 2460798210113038985, guid: fa157dc283fc8504a83c894cc0bbbf94, type: 3}
   _controller: 2
   _loop: 0
   _amplitude: 1
@@ -2245,7 +2245,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 0c1a8c31a2da2234eb8b6f3c251773fb, type: 2}
+  - {fileID: 2100000, guid: 4a300d6d3ee4e294d94d6a07303be1a2, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
