@@ -7,6 +7,7 @@ public class TactileHapticOVRControllerGuidance : MonoBehaviour
 
     [SerializeField] private SandpaperInteractHaptics sandpaperInteractHaptics;
     [SerializeField] private MeshCollider leftControllerCollider;
+    [SerializeField] private WallHitScript wallHitScript;
     [SerializeField] private MeshCollider rightControllerCollider;
     [SerializeField] public HapticClipPlayer gravellyClipPlayer;
     [SerializeField] public HapticClip gravelClip;
