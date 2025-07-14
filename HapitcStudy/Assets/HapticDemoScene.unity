@@ -14475,17 +14475,9 @@ MonoBehaviour:
   m_Mesh: {fileID: 760851227}
   m_VersionIndex: 23090
   m_IsSelectable: 1
-  m_SelectedFaces: 79000000
-  m_SelectedEdges:
-  - a: 484
-    b: 485
-  - a: 486
-    b: 484
-  - a: 485
-    b: 487
-  - a: 487
-    b: 486
-  m_SelectedVertices: e4010000e5010000e6010000e7010000
+  m_SelectedFaces: 
+  m_SelectedEdges: []
+  m_SelectedVertices: 
 --- !u!4 &486866443
 Transform:
   m_ObjectHideFlags: 0
@@ -23684,15 +23676,15 @@ AudioSource:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1033127896}
-  m_Enabled: 0
+  m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: c39b48ea710361941a2a9065778a050e, type: 3}
-  m_Resource: {fileID: 8300000, guid: c39b48ea710361941a2a9065778a050e, type: 3}
-  m_PlayOnAwake: 1
+  m_audioClip: {fileID: 8300000, guid: 5608e1502cd9a2a4ea011e7da34dcf19, type: 3}
+  m_Resource: {fileID: 8300000, guid: 5608e1502cd9a2a4ea011e7da34dcf19, type: 3}
+  m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
-  Loop: 1
+  Loop: 0
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
@@ -23781,13 +23773,15 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1033127896}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 10703d149b998744caa18496efb3ea58, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   OVRPlayerController: {fileID: 1033127904}
   footstepSource: {fileID: 1033127907}
+  baseVector: {x: 0, y: 0}
+  inputWalkSystem: {fileID: -1680190386980627800, guid: 2db4ea4c8d0d8b74f9332f9c49e8938c, type: 3}
 --- !u!1 &1039770387
 GameObject:
   m_ObjectHideFlags: 0
