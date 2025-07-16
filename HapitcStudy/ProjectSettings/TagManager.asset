@@ -9,6 +9,7 @@ TagManager:
   - VRController
   - LeftVRController
   - RightVRController
+  - VisualEye
   layers:
   - Default
   - TransparentFX
