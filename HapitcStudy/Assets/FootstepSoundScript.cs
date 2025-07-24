@@ -78,23 +78,14 @@ public class FootstepSoundScript : MonoBehaviour
 
     private void LateUpdate()
 
-        //Part of function code courtesy of u/CozyRedBear, never even heard of LateUpdate until now
+        //Function code courtesy of u/CozyRedBear, never even heard of LateUpdate until now
     {
         deltaPos = latePos - transform.position;
         latePos = transform.position;
 
-        if (deltaPos.magnitude != 0)
-        {
-            if (!footstepSource.isPlaying)
-            {
-                footstepSource.Play();
-            }
-        } 
-
         if (deltaPos.magnitude == 0)
         {
             //Player isn't moving.
-            footstepSource.Stop();
         }
 
     }
