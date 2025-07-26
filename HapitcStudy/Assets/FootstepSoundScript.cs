@@ -74,6 +74,7 @@ public class FootstepSoundScript : MonoBehaviour
          }
         */
         //Debug.Log(thumbstickInput);
+        Debug.Log(deltaPos);
     }
 
     private void LateUpdate()
@@ -83,9 +84,17 @@ public class FootstepSoundScript : MonoBehaviour
         deltaPos = latePos - transform.position;
         latePos = transform.position;
 
-        if (deltaPos.magnitude == 0)
+        if(deltaPos.magnitude != 0)
+        {
+            if (!footstepSource.isPlaying)
+            {
+                footstepSource.Play();
+            }
+        }
+        else if (deltaPos.magnitude == 0)
         {
             //Player isn't moving.
+            footstepSource.Stop();
         }
 
     }
