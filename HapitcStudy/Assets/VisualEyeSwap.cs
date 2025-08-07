@@ -44,7 +44,7 @@ public class VisualEyeSwap : MonoBehaviour
 
                 break;
             case 1:
-                visualEyeColor.tag = "ActiveVisualEye";
+                //visualEyeColor.tag = "ActiveVisualEye";
                 //visualEyeColor.SetActive(true);
                 if (OVRInput.GetDown(OVRInput.Button.Two, OVRInput.Controller.LTouch))
                 {
