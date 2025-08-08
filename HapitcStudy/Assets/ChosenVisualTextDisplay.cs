@@ -19,7 +19,7 @@ public class ChosenVisualTextDisplay : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        DisplayImpairNameAndDescription();
     }
 
     // This'll be where the names and descriptions of the various visual impairments will go
@@ -29,7 +29,8 @@ public class ChosenVisualTextDisplay : MonoBehaviour
         switch (VisualEyeSwap.currentVisualEyeIndex)
         {
             case 0:
-
+                chosenVisualEye.text = "None Selected";
+                chosenVisualEyeDescription.text = "N/A";
                 break;
             case 1:
                 chosenVisualEye.text = "Xanthopsia";
