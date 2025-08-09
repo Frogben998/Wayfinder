@@ -18955,8 +18955,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 463964717}
-  - component: {fileID: 463964718}
-  - component: {fileID: 463964719}
   m_Layer: 0
   m_Name: TesterTestInstructions
   m_TagString: Untagged
@@ -18980,33 +18978,6 @@ Transform:
   - {fileID: 561975860}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &463964718
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 463964716}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6ff84098a496d2741ba72ccf31eeb4ec, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  popUpText: {fileID: 2095320625}
---- !u!114 &463964719
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 463964716}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5db6e334ac355534d808418277f4ae8f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  timerVar: 0
-  timerString: {fileID: 2095320625}
 --- !u!1 &463970043
 GameObject:
   m_ObjectHideFlags: 0
@@ -26545,7 +26516,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &561975860
 Transform:
   m_ObjectHideFlags: 0
@@ -26555,7 +26526,7 @@ Transform:
   m_GameObject: {fileID: 561975859}
   serializedVersion: 2
   m_LocalRotation: {x: -0.7071057, y: -0, z: -0, w: 0.7071079}
-  m_LocalPosition: {x: 13.5, y: -1.9300822, z: 6.779262}
+  m_LocalPosition: {x: 35.36, y: -1.9300822, z: 6.779262}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -34475,6 +34446,7 @@ GameObject:
   - component: {fileID: 802595761}
   - component: {fileID: 802595766}
   - component: {fileID: 802595765}
+  - component: {fileID: 802595767}
   m_Layer: 0
   m_Name: LightTurnoffCollider
   m_TagString: Untagged
@@ -34618,6 +34590,21 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 126
   m_CollisionDetection: 0
+--- !u!114 &802595767
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 802595760}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5db6e334ac355534d808418277f4ae8f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  timerVar: 0
+  timerString: {fileID: 2095320625}
+  isCounting: 0
 --- !u!43 &807132146
 Mesh:
   m_ObjectHideFlags: 0
@@ -40775,7 +40762,7 @@ MonoBehaviour:
   wallHitScript: {fileID: 0}
   rightControllerCollider: {fileID: 306712416}
   gravelClip: {fileID: 2460798210113038985, guid: 89fce714b15d2cf45acefd3fe99d0b46, type: 3}
-  testingTextScript: {fileID: 463964718}
+  testingTextScript: {fileID: 0}
 --- !u!114 &1033127904
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -72847,7 +72834,7 @@ Transform:
   m_GameObject: {fileID: 2024493544}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 15.61, y: 0.764, z: -53.4}
+  m_LocalPosition: {x: 15.61, y: 0.764, z: -23.4}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -75307,7 +75294,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &2095320624
 RectTransform:
   m_ObjectHideFlags: 0
