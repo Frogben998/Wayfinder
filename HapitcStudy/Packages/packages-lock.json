@@ -36,6 +36,12 @@
       },
       "url": "https://packages.unity.com"
     },
+    "com.mibdev.fullscreen-editor": {
+      "version": "file:com.mibdev.fullscreen-editor",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "com.unity.burst": {
       "version": "1.8.18",
       "depth": 2,

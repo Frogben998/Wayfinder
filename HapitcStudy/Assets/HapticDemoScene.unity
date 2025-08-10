@@ -14067,7 +14067,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 3.52, y: 3.22}
+  m_AnchoredPosition: {x: 3.52, y: 3.1}
   m_SizeDelta: {x: 20, y: 5}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &330267211
@@ -14090,9 +14090,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Throughout the maze you''ll be relying on the haptic feedback of the floor
-    tiles, which are split up into three strengths: Hot, Warm, and Cold. Follow the
-    Hot path to the end of the maze!'
+  m_text: 'Throughout this final maze you''ll be relying on the haptic feedback of
+    the floor tiles, which are split up into three strengths: Hot, Warm, and Cold.
+    Follow the Hot path to the end of the maze and see what time you get!'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -47112,8 +47112,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1249161189}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0.382806, z: -0, w: 0.92382884}
-  m_LocalPosition: {x: 7.04, y: 0, z: -21.99}
+  m_LocalRotation: {x: -0, y: -0.25173637, z: -0, w: 0.96779585}
+  m_LocalPosition: {x: 8, y: 0, z: -18.83}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -47124,7 +47124,7 @@ Transform:
   - {fileID: 498492927}
   - {fileID: 483707818}
   m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: -45.015, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: -29.161, z: 0}
 --- !u!1 &1249617917
 GameObject:
   m_ObjectHideFlags: 0
@@ -72834,7 +72834,7 @@ Transform:
   m_GameObject: {fileID: 2024493544}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 15.61, y: 0.764, z: -23.4}
+  m_LocalPosition: {x: 15.61, y: 0.764, z: -85.8}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
