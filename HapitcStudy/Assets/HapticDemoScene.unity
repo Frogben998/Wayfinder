@@ -39414,7 +39414,7 @@ MonoBehaviour:
   visualEyeColor: {fileID: 485166531}
   visualEyeHemianopia: {fileID: 763614902}
   visualEyePeripheralLoss: {fileID: 243444771}
-  totalBlindnessLight: {fileID: 299639867}
+  totalBlindnessLight: {fileID: 651216348}
   visualEyeLowContrast: {fileID: 1598739324}
 --- !u!4 &967213155
 Transform:
@@ -72633,8 +72633,9 @@ MonoBehaviour:
   m_text: 'Left Thumbstick - Move
 
 
-    Right Controller has a virtual cane mounted
-    to it that you hit the colored tiles and wall with to feel the haptic vibrations.'
+    Right Controller will have a virtual cane
+    mounted to it that you hit the grey floor and wall with to feel the haptic vibrations
+    in the final maze.'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}

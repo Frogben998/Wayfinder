@@ -29,8 +29,9 @@ public class ChosenVisualTextDisplay : MonoBehaviour
         switch (VisualEyeSwap.currentVisualEyeIndex)
         {
             case 0:
-                chosenVisualEye.text = "None Selected";
-                chosenVisualEyeDescription.text = "N/A";
+                chosenVisualEye.text = "No Light Perception";
+                chosenVisualEyeDescription.text = "No Light Perception, or NLP, only affects approx. 15% of people with eye disorders." +
+                    " Causes include severe eye injury/trauma, severe eye infections, end stages of Glaucoma and Diabetic Retinopathy, and complete retinal detachment. ";
                 break;
             case 1:
                 chosenVisualEye.text = "Xanthopsia";

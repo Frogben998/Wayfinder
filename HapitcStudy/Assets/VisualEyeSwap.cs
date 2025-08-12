@@ -41,7 +41,14 @@ public class VisualEyeSwap : MonoBehaviour
         switch (currentVisualEyeIndex)
         {
             case 0:
-
+                /*if (OVRInput.GetDown(OVRInput.Button.Two, OVRInput.Controller.LTouch))
+                {
+                    totalBlindnessLight.SetActive(true);
+                }*/
+                if (OVRInput.GetUp(OVRInput.Button.Two, OVRInput.Controller.LTouch))
+                {
+                    totalBlindnessLight.SetActive(!totalBlindnessLight.activeSelf);
+                }
                 break;
             case 1:
                 //visualEyeColor.tag = "ActiveVisualEye";
