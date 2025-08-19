@@ -35,7 +35,10 @@ public class DarkScript : MonoBehaviour
         switch (VisualEyeSwap.currentVisualEyeIndex)
         {
             case 0:
-
+                if (other.gameObject.tag == "RightVRController")
+                {
+                    totalBlindnessLightToCollide.SetActive(true);
+                }
                 break;
             case 1:
                 if (other.gameObject.tag == "RightVRController")

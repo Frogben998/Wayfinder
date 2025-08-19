@@ -34561,7 +34561,7 @@ MonoBehaviour:
   visualEyeColorToCollide: {fileID: 485166531}
   visualEyeHemianopiaToCollide: {fileID: 763614902}
   visualEyePeripheralLossToCollide: {fileID: 243444771}
-  totalBlindnessLightToCollide: {fileID: 0}
+  totalBlindnessLightToCollide: {fileID: 651216348}
   visualEyeLowContrastToCollide: {fileID: 1598739324}
 --- !u!54 &802595766
 Rigidbody:
