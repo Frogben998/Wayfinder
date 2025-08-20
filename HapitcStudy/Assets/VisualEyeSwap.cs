@@ -6,7 +6,7 @@ public class VisualEyeSwap : MonoBehaviour
     public GameObject visualEyeColor;
     public GameObject visualEyeHemianopia;
     public GameObject visualEyePeripheralLoss;
-    public GameObject totalBlindnessLight;
+    public GameObject visualEyeTotalBlindness;
     public GameObject visualEyeLowContrast;
     public static int currentVisualEyeIndex { get; private set; }
 
@@ -45,9 +45,13 @@ public class VisualEyeSwap : MonoBehaviour
                 {
                     totalBlindnessLight.SetActive(true);
                 }*/
-                if (OVRInput.GetUp(OVRInput.Button.Two, OVRInput.Controller.LTouch))
+                if (OVRInput.GetDown(OVRInput.Button.Two, OVRInput.Controller.LTouch))
                 {
-                    totalBlindnessLight.SetActive(!totalBlindnessLight.activeSelf);
+                    visualEyeTotalBlindness.SetActive(true);
+                }
+                else if (OVRInput.GetUp(OVRInput.Button.Two, OVRInput.Controller.LTouch))
+                {
+                    visualEyeTotalBlindness.SetActive(false);
                 }
                 break;
             case 1:
