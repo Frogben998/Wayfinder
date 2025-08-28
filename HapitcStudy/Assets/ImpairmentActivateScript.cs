@@ -3,6 +3,7 @@ using UnityEngine;
 public class ImpairmentActivateScript : MonoBehaviour
 {
     public GameObject impairment;
+    public GameObject audioWaypoint;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -18,12 +19,20 @@ public class ImpairmentActivateScript : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        impairment.SetActive(true);
+        if (other.gameObject.tag == "RightVRController")
+        {
+            impairment.SetActive(true);
+            audioWaypoint.SetActive(true);
+        }
     }
 
     private void OnTriggerExit(Collider other)
     {
-        impairment.SetActive(false);
+        if (other.gameObject.tag == "RightVRController")
+        {
+            impairment.SetActive(false);
+            audioWaypoint.SetActive(false);
+        }
     }
 
 }

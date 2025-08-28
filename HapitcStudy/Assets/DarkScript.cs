@@ -27,10 +27,7 @@ public class DarkScript : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        /*if (other.gameObject.tag == "RightVRController")
-        {
-            //lightToTurnOff.enabled = false;
-        }*/
+
 
         switch (VisualEyeSwap.currentVisualEyeIndex)
         {
@@ -120,6 +117,6 @@ public class DarkScript : MonoBehaviour
 
     }
 
-
+    
 
 }
