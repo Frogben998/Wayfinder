@@ -1,0 +1,1 @@
+C:\Users\jdsbr\OneDrive\Documents\Source\Repos\Wayfinder\HapitcStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\1a1u5qw3\obj\arm64-v8a
