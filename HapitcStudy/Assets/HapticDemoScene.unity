@@ -276,7 +276,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -970,7 +970,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: d18cd201da91c8f448e8ff81bc651d84, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: c1f121c259c6a3f4e97c873a79d26a0f, type: 3}
   wallHitAudioSource: {fileID: 0}
   wallHitAudioClip: {fileID: 0}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -1124,7 +1124,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: d18cd201da91c8f448e8ff81bc651d84, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: c1f121c259c6a3f4e97c873a79d26a0f, type: 3}
   wallHitAudioSource: {fileID: 0}
   wallHitAudioClip: {fileID: 0}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -7727,7 +7727,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: 1a7cf8bd7b0826c48a94996f2c2e12b7, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: f2dbf0eac846fe54bab11bd566ad5ace, type: 3}
   wallHitAudioSource: {fileID: 0}
   wallHitAudioClip: {fileID: 0}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -8061,7 +8061,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -8480,7 +8480,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -8899,7 +8899,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -9318,7 +9318,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -10356,7 +10356,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -11167,7 +11167,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -11751,7 +11751,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -12167,7 +12167,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: 1a7cf8bd7b0826c48a94996f2c2e12b7, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: f2dbf0eac846fe54bab11bd566ad5ace, type: 3}
   wallHitAudioSource: {fileID: 0}
   wallHitAudioClip: {fileID: 0}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -12693,7 +12693,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -13806,7 +13806,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -14225,7 +14225,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -14835,7 +14835,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -15826,7 +15826,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -16280,7 +16280,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: 1251b72813a16e6439c5155b2544bfcf, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: eab5c02da94627141acb504d330f0d48, type: 3}
   wallHitAudioSource: {fileID: 0}
   wallHitAudioClip: {fileID: 0}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -16526,7 +16526,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -17110,7 +17110,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -17526,7 +17526,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: 1a7cf8bd7b0826c48a94996f2c2e12b7, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: f2dbf0eac846fe54bab11bd566ad5ace, type: 3}
   wallHitAudioSource: {fileID: 0}
   wallHitAudioClip: {fileID: 0}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -18198,7 +18198,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: 1a7cf8bd7b0826c48a94996f2c2e12b7, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: f2dbf0eac846fe54bab11bd566ad5ace, type: 3}
   wallHitAudioSource: {fileID: 0}
   wallHitAudioClip: {fileID: 0}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -21558,7 +21558,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -22045,7 +22045,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -22464,7 +22464,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -22883,7 +22883,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -23302,7 +23302,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -24272,7 +24272,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: d18cd201da91c8f448e8ff81bc651d84, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: c1f121c259c6a3f4e97c873a79d26a0f, type: 3}
   wallHitAudioSource: {fileID: 0}
   wallHitAudioClip: {fileID: 0}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -24426,7 +24426,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: d18cd201da91c8f448e8ff81bc651d84, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: c1f121c259c6a3f4e97c873a79d26a0f, type: 3}
   wallHitAudioSource: {fileID: 0}
   wallHitAudioClip: {fileID: 0}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -28533,7 +28533,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: 1a7cf8bd7b0826c48a94996f2c2e12b7, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: f2dbf0eac846fe54bab11bd566ad5ace, type: 3}
   wallHitAudioSource: {fileID: 0}
   wallHitAudioClip: {fileID: 0}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -29920,7 +29920,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: d18cd201da91c8f448e8ff81bc651d84, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: c1f121c259c6a3f4e97c873a79d26a0f, type: 3}
   wallHitAudioSource: {fileID: 0}
   wallHitAudioClip: {fileID: 0}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -31210,7 +31210,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: 1a7cf8bd7b0826c48a94996f2c2e12b7, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: f2dbf0eac846fe54bab11bd566ad5ace, type: 3}
   wallHitAudioSource: {fileID: 0}
   wallHitAudioClip: {fileID: 0}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -32425,7 +32425,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: d18cd201da91c8f448e8ff81bc651d84, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: c1f121c259c6a3f4e97c873a79d26a0f, type: 3}
   wallHitAudioSource: {fileID: 0}
   wallHitAudioClip: {fileID: 0}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -32958,7 +32958,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: d18cd201da91c8f448e8ff81bc651d84, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: c1f121c259c6a3f4e97c873a79d26a0f, type: 3}
   wallHitAudioSource: {fileID: 0}
   wallHitAudioClip: {fileID: 0}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -34090,7 +34090,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: 1a7cf8bd7b0826c48a94996f2c2e12b7, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: f2dbf0eac846fe54bab11bd566ad5ace, type: 3}
   wallHitAudioSource: {fileID: 0}
   wallHitAudioClip: {fileID: 0}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -34262,7 +34262,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -35569,7 +35569,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -36056,7 +36056,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -36640,7 +36640,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -38475,7 +38475,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: d18cd201da91c8f448e8ff81bc651d84, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: c1f121c259c6a3f4e97c873a79d26a0f, type: 3}
   wallHitAudioSource: {fileID: 0}
   wallHitAudioClip: {fileID: 0}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -38660,7 +38660,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: d18cd201da91c8f448e8ff81bc651d84, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: c1f121c259c6a3f4e97c873a79d26a0f, type: 3}
   wallHitAudioSource: {fileID: 0}
   wallHitAudioClip: {fileID: 0}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -39300,7 +39300,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -39866,7 +39866,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: d18cd201da91c8f448e8ff81bc651d84, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: c1f121c259c6a3f4e97c873a79d26a0f, type: 3}
   wallHitAudioSource: {fileID: 0}
   wallHitAudioClip: {fileID: 0}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -40311,7 +40311,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -44976,7 +44976,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: 1a7cf8bd7b0826c48a94996f2c2e12b7, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: f2dbf0eac846fe54bab11bd566ad5ace, type: 3}
   wallHitAudioSource: {fileID: 0}
   wallHitAudioClip: {fileID: 0}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -45298,7 +45298,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -46362,7 +46362,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: d18cd201da91c8f448e8ff81bc651d84, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: c1f121c259c6a3f4e97c873a79d26a0f, type: 3}
   wallHitAudioSource: {fileID: 0}
   wallHitAudioClip: {fileID: 0}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -46616,7 +46616,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: d18cd201da91c8f448e8ff81bc651d84, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: c1f121c259c6a3f4e97c873a79d26a0f, type: 3}
   wallHitAudioSource: {fileID: 0}
   wallHitAudioClip: {fileID: 0}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -46945,7 +46945,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: 1a7cf8bd7b0826c48a94996f2c2e12b7, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: f2dbf0eac846fe54bab11bd566ad5ace, type: 3}
   wallHitAudioSource: {fileID: 0}
   wallHitAudioClip: {fileID: 0}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -47464,7 +47464,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -49901,7 +49901,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: 1a7cf8bd7b0826c48a94996f2c2e12b7, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: f2dbf0eac846fe54bab11bd566ad5ace, type: 3}
   wallHitAudioSource: {fileID: 0}
   wallHitAudioClip: {fileID: 0}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -50408,7 +50408,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -51887,7 +51887,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: 1251b72813a16e6439c5155b2544bfcf, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: eab5c02da94627141acb504d330f0d48, type: 3}
   wallHitAudioSource: {fileID: 0}
   wallHitAudioClip: {fileID: 0}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -52914,7 +52914,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -54293,7 +54293,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -55108,7 +55108,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -55527,7 +55527,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -55946,7 +55946,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -57379,7 +57379,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: 1251b72813a16e6439c5155b2544bfcf, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: eab5c02da94627141acb504d330f0d48, type: 3}
   wallHitAudioSource: {fileID: 0}
   wallHitAudioClip: {fileID: 0}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -57944,7 +57944,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -58528,7 +58528,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -59638,7 +59638,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -60696,7 +60696,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -62010,7 +62010,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -67026,7 +67026,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -67702,7 +67702,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: 1a7cf8bd7b0826c48a94996f2c2e12b7, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: f2dbf0eac846fe54bab11bd566ad5ace, type: 3}
   wallHitAudioSource: {fileID: 0}
   wallHitAudioClip: {fileID: 0}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -68476,7 +68476,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -72155,7 +72155,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: 1251b72813a16e6439c5155b2544bfcf, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: eab5c02da94627141acb504d330f0d48, type: 3}
   wallHitAudioSource: {fileID: 0}
   wallHitAudioClip: {fileID: 0}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -72309,7 +72309,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: d18cd201da91c8f448e8ff81bc651d84, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: c1f121c259c6a3f4e97c873a79d26a0f, type: 3}
   wallHitAudioSource: {fileID: 0}
   wallHitAudioClip: {fileID: 0}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -72466,7 +72466,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -73050,7 +73050,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -77854,7 +77854,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -78754,7 +78754,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -79170,7 +79170,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: 1251b72813a16e6439c5155b2544bfcf, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: eab5c02da94627141acb504d330f0d48, type: 3}
   wallHitAudioSource: {fileID: 0}
   wallHitAudioClip: {fileID: 0}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -80179,7 +80179,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -81420,7 +81420,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -82203,7 +82203,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: 1251b72813a16e6439c5155b2544bfcf, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: eab5c02da94627141acb504d330f0d48, type: 3}
   wallHitAudioSource: {fileID: 0}
   wallHitAudioClip: {fileID: 0}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -82643,7 +82643,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: 1251b72813a16e6439c5155b2544bfcf, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: eab5c02da94627141acb504d330f0d48, type: 3}
   wallHitAudioSource: {fileID: 0}
   wallHitAudioClip: {fileID: 0}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -83916,7 +83916,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -85191,7 +85191,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: 1251b72813a16e6439c5155b2544bfcf, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: eab5c02da94627141acb504d330f0d48, type: 3}
   wallHitAudioSource: {fileID: 0}
   wallHitAudioClip: {fileID: 0}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -85379,7 +85379,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: 1a7cf8bd7b0826c48a94996f2c2e12b7, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: f2dbf0eac846fe54bab11bd566ad5ace, type: 3}
   wallHitAudioSource: {fileID: 0}
   wallHitAudioClip: {fileID: 0}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -85855,7 +85855,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -86891,7 +86891,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: d18cd201da91c8f448e8ff81bc651d84, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: c1f121c259c6a3f4e97c873a79d26a0f, type: 3}
   wallHitAudioSource: {fileID: 0}
   wallHitAudioClip: {fileID: 0}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -88455,7 +88455,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -88999,7 +88999,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: 1251b72813a16e6439c5155b2544bfcf, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: eab5c02da94627141acb504d330f0d48, type: 3}
   wallHitAudioSource: {fileID: 0}
   wallHitAudioClip: {fileID: 0}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -89184,7 +89184,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: 1a7cf8bd7b0826c48a94996f2c2e12b7, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: f2dbf0eac846fe54bab11bd566ad5ace, type: 3}
   wallHitAudioSource: {fileID: 0}
   wallHitAudioClip: {fileID: 0}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -89387,7 +89387,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: d18cd201da91c8f448e8ff81bc651d84, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: c1f121c259c6a3f4e97c873a79d26a0f, type: 3}
   wallHitAudioSource: {fileID: 0}
   wallHitAudioClip: {fileID: 0}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -89541,7 +89541,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: 1a7cf8bd7b0826c48a94996f2c2e12b7, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: f2dbf0eac846fe54bab11bd566ad5ace, type: 3}
   wallHitAudioSource: {fileID: 0}
   wallHitAudioClip: {fileID: 0}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -89698,7 +89698,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -91149,7 +91149,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -92549,7 +92549,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: 1a7cf8bd7b0826c48a94996f2c2e12b7, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: f2dbf0eac846fe54bab11bd566ad5ace, type: 3}
   wallHitAudioSource: {fileID: 0}
   wallHitAudioClip: {fileID: 0}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -93031,7 +93031,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -94047,7 +94047,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -94691,7 +94691,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: 1251b72813a16e6439c5155b2544bfcf, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: eab5c02da94627141acb504d330f0d48, type: 3}
   wallHitAudioSource: {fileID: 0}
   wallHitAudioClip: {fileID: 0}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -95075,7 +95075,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -95494,7 +95494,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -95910,7 +95910,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: 1251b72813a16e6439c5155b2544bfcf, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: eab5c02da94627141acb504d330f0d48, type: 3}
   wallHitAudioSource: {fileID: 0}
   wallHitAudioClip: {fileID: 0}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -96937,7 +96937,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -97532,7 +97532,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -98791,7 +98791,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -99207,7 +99207,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: d18cd201da91c8f448e8ff81bc651d84, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: c1f121c259c6a3f4e97c873a79d26a0f, type: 3}
   wallHitAudioSource: {fileID: 0}
   wallHitAudioClip: {fileID: 0}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -99364,7 +99364,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -99780,7 +99780,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: 1251b72813a16e6439c5155b2544bfcf, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: eab5c02da94627141acb504d330f0d48, type: 3}
   wallHitAudioSource: {fileID: 0}
   wallHitAudioClip: {fileID: 0}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -100889,7 +100889,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: 1a7cf8bd7b0826c48a94996f2c2e12b7, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: f2dbf0eac846fe54bab11bd566ad5ace, type: 3}
   wallHitAudioSource: {fileID: 0}
   wallHitAudioClip: {fileID: 0}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -101046,7 +101046,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -101667,7 +101667,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -102449,7 +102449,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -102868,7 +102868,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -103702,7 +103702,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -104776,7 +104776,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -109823,7 +109823,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -111563,7 +111563,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -112417,7 +112417,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -113029,7 +113029,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: 1a7cf8bd7b0826c48a94996f2c2e12b7, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: f2dbf0eac846fe54bab11bd566ad5ace, type: 3}
   wallHitAudioSource: {fileID: 0}
   wallHitAudioClip: {fileID: 0}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -113248,7 +113248,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -117506,7 +117506,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -117922,7 +117922,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: 1a7cf8bd7b0826c48a94996f2c2e12b7, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: f2dbf0eac846fe54bab11bd566ad5ace, type: 3}
   wallHitAudioSource: {fileID: 0}
   wallHitAudioClip: {fileID: 0}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -118291,7 +118291,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -118741,7 +118741,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: 1a7cf8bd7b0826c48a94996f2c2e12b7, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: f2dbf0eac846fe54bab11bd566ad5ace, type: 3}
   wallHitAudioSource: {fileID: 0}
   wallHitAudioClip: {fileID: 0}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -123456,7 +123456,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -124316,7 +124316,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -125040,7 +125040,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -125459,7 +125459,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -125878,7 +125878,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -127466,7 +127466,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: 1a7cf8bd7b0826c48a94996f2c2e12b7, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: f2dbf0eac846fe54bab11bd566ad5ace, type: 3}
   wallHitAudioSource: {fileID: 0}
   wallHitAudioClip: {fileID: 0}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -128755,7 +128755,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -132729,7 +132729,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: d18cd201da91c8f448e8ff81bc651d84, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: c1f121c259c6a3f4e97c873a79d26a0f, type: 3}
   wallHitAudioSource: {fileID: 0}
   wallHitAudioClip: {fileID: 0}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -132886,7 +132886,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -134358,7 +134358,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -134774,7 +134774,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: 1251b72813a16e6439c5155b2544bfcf, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: eab5c02da94627141acb504d330f0d48, type: 3}
   wallHitAudioSource: {fileID: 0}
   wallHitAudioClip: {fileID: 0}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -135000,7 +135000,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -136022,7 +136022,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -136438,7 +136438,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: 1a7cf8bd7b0826c48a94996f2c2e12b7, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: f2dbf0eac846fe54bab11bd566ad5ace, type: 3}
   wallHitAudioSource: {fileID: 0}
   wallHitAudioClip: {fileID: 0}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -136822,7 +136822,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -137571,7 +137571,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -138900,7 +138900,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -139735,7 +139735,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: 1251b72813a16e6439c5155b2544bfcf, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: eab5c02da94627141acb504d330f0d48, type: 3}
   wallHitAudioSource: {fileID: 0}
   wallHitAudioClip: {fileID: 0}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -140057,7 +140057,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -140507,7 +140507,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -143100,7 +143100,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: 1251b72813a16e6439c5155b2544bfcf, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: eab5c02da94627141acb504d330f0d48, type: 3}
   wallHitAudioSource: {fileID: 0}
   wallHitAudioClip: {fileID: 0}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -143964,7 +143964,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -144810,7 +144810,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -145229,7 +145229,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -145820,7 +145820,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: 1a7cf8bd7b0826c48a94996f2c2e12b7, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: f2dbf0eac846fe54bab11bd566ad5ace, type: 3}
   wallHitAudioSource: {fileID: 0}
   wallHitAudioClip: {fileID: 0}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -147092,7 +147092,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -147511,7 +147511,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -148023,7 +148023,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -148800,7 +148800,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: 1251b72813a16e6439c5155b2544bfcf, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: eab5c02da94627141acb504d330f0d48, type: 3}
   wallHitAudioSource: {fileID: 0}
   wallHitAudioClip: {fileID: 0}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -149114,7 +149114,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: 1251b72813a16e6439c5155b2544bfcf, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: eab5c02da94627141acb504d330f0d48, type: 3}
   wallHitAudioSource: {fileID: 0}
   wallHitAudioClip: {fileID: 0}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -149957,7 +149957,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: 1a7cf8bd7b0826c48a94996f2c2e12b7, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: f2dbf0eac846fe54bab11bd566ad5ace, type: 3}
   wallHitAudioSource: {fileID: 0}
   wallHitAudioClip: {fileID: 0}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -151065,7 +151065,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: 1251b72813a16e6439c5155b2544bfcf, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: eab5c02da94627141acb504d330f0d48, type: 3}
   wallHitAudioSource: {fileID: 0}
   wallHitAudioClip: {fileID: 0}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -152189,7 +152189,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -152608,7 +152608,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -153027,7 +153027,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -153474,7 +153474,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: 1a7cf8bd7b0826c48a94996f2c2e12b7, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: f2dbf0eac846fe54bab11bd566ad5ace, type: 3}
   wallHitAudioSource: {fileID: 0}
   wallHitAudioClip: {fileID: 0}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -153628,7 +153628,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: 1a7cf8bd7b0826c48a94996f2c2e12b7, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: f2dbf0eac846fe54bab11bd566ad5ace, type: 3}
   wallHitAudioSource: {fileID: 0}
   wallHitAudioClip: {fileID: 0}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -157408,7 +157408,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -157824,7 +157824,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: 1251b72813a16e6439c5155b2544bfcf, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: eab5c02da94627141acb504d330f0d48, type: 3}
   wallHitAudioSource: {fileID: 0}
   wallHitAudioClip: {fileID: 0}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -158056,7 +158056,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -158475,7 +158475,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -159133,7 +159133,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -159996,7 +159996,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -160927,7 +160927,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -161645,7 +161645,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: 1a7cf8bd7b0826c48a94996f2c2e12b7, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: f2dbf0eac846fe54bab11bd566ad5ace, type: 3}
   wallHitAudioSource: {fileID: 0}
   wallHitAudioClip: {fileID: 0}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -162337,7 +162337,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -162929,7 +162929,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: d18cd201da91c8f448e8ff81bc651d84, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: c1f121c259c6a3f4e97c873a79d26a0f, type: 3}
   wallHitAudioSource: {fileID: 0}
   wallHitAudioClip: {fileID: 0}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -163150,7 +163150,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -164165,7 +164165,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -164615,7 +164615,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -165548,7 +165548,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: 1251b72813a16e6439c5155b2544bfcf, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: eab5c02da94627141acb504d330f0d48, type: 3}
   wallHitAudioSource: {fileID: 0}
   wallHitAudioClip: {fileID: 0}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -165705,7 +165705,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -166121,7 +166121,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: 1251b72813a16e6439c5155b2544bfcf, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: eab5c02da94627141acb504d330f0d48, type: 3}
   wallHitAudioSource: {fileID: 0}
   wallHitAudioClip: {fileID: 0}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -166545,7 +166545,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: 1a7cf8bd7b0826c48a94996f2c2e12b7, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: f2dbf0eac846fe54bab11bd566ad5ace, type: 3}
   wallHitAudioSource: {fileID: 0}
   wallHitAudioClip: {fileID: 0}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -167903,7 +167903,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: d18cd201da91c8f448e8ff81bc651d84, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: c1f121c259c6a3f4e97c873a79d26a0f, type: 3}
   wallHitAudioSource: {fileID: 0}
   wallHitAudioClip: {fileID: 0}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -168497,7 +168497,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -169081,7 +169081,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -169500,7 +169500,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -170073,7 +170073,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -176625,7 +176625,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: 1a7cf8bd7b0826c48a94996f2c2e12b7, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: f2dbf0eac846fe54bab11bd566ad5ace, type: 3}
   wallHitAudioSource: {fileID: 0}
   wallHitAudioClip: {fileID: 0}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -177109,7 +177109,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: d18cd201da91c8f448e8ff81bc651d84, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: c1f121c259c6a3f4e97c873a79d26a0f, type: 3}
   wallHitAudioSource: {fileID: 0}
   wallHitAudioClip: {fileID: 0}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -177263,7 +177263,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: 1a7cf8bd7b0826c48a94996f2c2e12b7, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: f2dbf0eac846fe54bab11bd566ad5ace, type: 3}
   wallHitAudioSource: {fileID: 0}
   wallHitAudioClip: {fileID: 0}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -177420,7 +177420,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -178169,7 +178169,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -178654,7 +178654,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: d18cd201da91c8f448e8ff81bc651d84, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: c1f121c259c6a3f4e97c873a79d26a0f, type: 3}
   wallHitAudioSource: {fileID: 0}
   wallHitAudioClip: {fileID: 0}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -179338,7 +179338,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: 1a7cf8bd7b0826c48a94996f2c2e12b7, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: f2dbf0eac846fe54bab11bd566ad5ace, type: 3}
   wallHitAudioSource: {fileID: 0}
   wallHitAudioClip: {fileID: 0}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -179495,7 +179495,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -181237,7 +181237,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: 1a7cf8bd7b0826c48a94996f2c2e12b7, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: f2dbf0eac846fe54bab11bd566ad5ace, type: 3}
   wallHitAudioSource: {fileID: 0}
   wallHitAudioClip: {fileID: 0}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
@@ -181625,7 +181625,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e2281fb849a2e7429042bd439dfb97f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wallHitClip: {fileID: 2460798210113038985, guid: a2d6480e4f2641b4e85baa31b61482d5, type: 3}
+  wallHitClip: {fileID: 2460798210113038985, guid: ff988eb418bfeef48bce45f9743b6e7b, type: 3}
   wallHitAudioSource: {fileID: 1762157751}
   wallHitAudioClip: {fileID: 8300000, guid: f9d233b45f6313a4a89e5f2cbbfb43be, type: 3}
   tactileHapticOVRControllerGuidance: {fileID: 1033127902}
