@@ -88091,6 +88091,51 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 917850103}
   m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1 &918684276
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 918684278}
+  - component: {fileID: 918684277}
+  m_Layer: 0
+  m_Name: ResetObject
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &918684277
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 918684276}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a6780deafa7b3c4eb0b7db82cb84974, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sceneName: HapticDemoScene
+--- !u!4 &918684278
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 918684276}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 31.01, y: 1.4775605, z: -34.721786}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!43 &921351918
 Mesh:
   m_ObjectHideFlags: 0
@@ -171257,9 +171302,12 @@ MonoBehaviour:
   m_text: 'Left Thumbstick - Move
 
 
-    Right Controller will have a virtual cane
-    mounted to it that you hit the grey floor and wall with to feel the haptic vibrations
-    in the final five mazes.'
+    A Button - Restart Game
+
+
+    Right Controller
+    will have a virtual cane mounted to it that you hit the grey floor and wall with
+    to feel the haptic vibrations in the final five mazes.'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -186050,3 +186098,4 @@ SceneRoots:
   - {fileID: 1210526600}
   - {fileID: 1636553453}
   - {fileID: 370275394269800070}
+  - {fileID: 918684278}

@@ -35,7 +35,7 @@ public class TimerScript : MonoBehaviour
         if (other.gameObject.tag == "RightVRController")
         {
             isCounting = false;
-            timerString.text = "Congratulations, you have just experienced 5 forms of visual impairment, your time is: " + timerVar.ToString() + " seconds.";
+            timerString.text = "Congratulations, you have just experienced 5 forms of visual impairment, your time is: " + timerVar.ToString() + " seconds. Please hit A to restart the game.";
         }
     }
 
